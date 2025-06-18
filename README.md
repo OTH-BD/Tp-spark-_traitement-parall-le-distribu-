@@ -12,10 +12,7 @@ date,city,product,price
 2023-01-05,Nador,Charger,10000.0
 2023-01-04,Taza,Mouse,9000.0
 2023-01-05,Kenitra,Smartphone,10000.0
-date,city,product,price
-2023-01-05,Nador,Charger,10000.0
-2023-01-04,Taza,Mouse,9000.0
-2023-01-05,Kenitra,Smartphone,10000.0 
+ 
 ```
 --- 
 
