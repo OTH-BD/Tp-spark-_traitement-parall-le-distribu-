@@ -7,11 +7,12 @@ Ce projet contient deux applications Spark développées en Java. Elles réalise
 ## 📁 Données d'entrée
 
 Le fichier `sales.txt` contient les ventes de produits dans différentes villes au format suivant :
+```csv
 date,city,product,price
 2023-01-05,Nador,Charger,10000.0
 2023-01-04,Taza,Mouse,9000.0
 2023-01-05,Kenitra,Smartphone,10000.0
----
+--- 
 
 ## 🧩 Exercice 1 : Total des ventes par ville
 
